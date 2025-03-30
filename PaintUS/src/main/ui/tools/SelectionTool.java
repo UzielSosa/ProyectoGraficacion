@@ -4,7 +4,7 @@ import main.core.rendering.LayerManager;
 import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.image.BufferedImage;
-
+// SelectionTool
 public class SelectionTool {
     public enum SelectionType { RECTANGULAR, ELLIPTICAL, FREE_FORM }
 

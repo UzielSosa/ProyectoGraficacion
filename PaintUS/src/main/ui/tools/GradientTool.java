@@ -3,7 +3,7 @@ package main.ui.tools;
 import java.awt.*;
 import java.awt.geom.Point2D;
 import java.awt.image.BufferedImage;
-
+//GradientTool
 public class GradientTool {
     public enum GradientType { LINEAR, RADIAL }
 

@@ -6,7 +6,7 @@ import main.utils.FileExporter;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
-
+///Inicio del MainWindow
 public class MainWindow extends JFrame {
     private final Canvas canvas;
 

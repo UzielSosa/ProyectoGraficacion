@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.image.BufferedImage; // Import faltante
 import java.awt.font.TextAttribute;
 import java.text.AttributedString;
-
+// TextTool
 public class TextTool {
     private String currentText = "";
     private Point textPosition;

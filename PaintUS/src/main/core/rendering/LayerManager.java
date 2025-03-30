@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.image.*;
 import java.util.*;
 import javax.swing.*;
-
+// clase LayerManager
 public class LayerManager {
     private final ArrayList<BufferedImage> layers;
     private final ArrayList<Boolean> visibleLayers;

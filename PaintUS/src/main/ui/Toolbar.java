@@ -2,7 +2,7 @@ package main.ui;
 
 import javax.swing.*;
 import java.awt.*;
-
+//Tolbar
 public class Toolbar extends JPanel {
     public Toolbar(Canvas canvas) {
         setLayout(new FlowLayout(FlowLayout.CENTER, 10, 5));

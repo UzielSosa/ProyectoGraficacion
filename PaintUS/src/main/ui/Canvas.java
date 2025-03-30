@@ -9,7 +9,7 @@ import java.awt.event.*;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.List;
-
+///inicio del canvas
 public class Canvas extends JPanel {
     private LayerManager layerManager;
     private SelectionTool selectionTool;

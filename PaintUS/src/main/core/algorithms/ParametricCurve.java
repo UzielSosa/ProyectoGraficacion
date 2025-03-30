@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.List;
-
+// clase ParametricCurve
 public class ParametricCurve {
 
     /**

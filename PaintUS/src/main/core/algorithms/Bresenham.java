@@ -2,7 +2,7 @@ package main.core.algorithms;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;
-
+// clase Bresenham
 public class Bresenham {
 
     /**
